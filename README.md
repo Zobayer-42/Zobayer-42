@@ -1,14 +1,5 @@
 <div align="center">
-
-<img src="https://github.com/Zobayer-42.png" alt="Zobayer" width="200" style="border-radius: 50%; border: 4px solid #70a5fd;"/>
-
-# 👨‍💻 Zobayer
-
-### Junior Software Engineer | Full Stack Developer
-
-[![GitHub followers](https://img.shields.io/github/followers/Zobayer-42?style=social)](https://github.com/Zobayer-42)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-zobayer-hossen-701478254)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=007ACC&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+[Md._Zobayer_Hossen];Junior+Software+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 ---
